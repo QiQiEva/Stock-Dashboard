@@ -33,8 +33,6 @@ streamlit run Stock_Dashboard.py
 ```
 
 ## Screenshots
-Here are some screenshots of what the dashboard looks like:
-## Screenshots
 
 Here are some screenshots of what the dashboard looks like:
 
